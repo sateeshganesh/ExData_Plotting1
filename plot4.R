@@ -1,5 +1,4 @@
 # Set the working directory in your machine with setwd() function
-setwd("/Users/sateeshganesh/Documents/DataScientistCourse-Coursera/ExploratoryDataAnalysis/ExData_Plotting1")
 
 # Include libraries for this project:
 library(downloader) # Used to download and open a zip file
